@@ -1,6 +1,6 @@
 # This blocklist blocks all TikTok traffic
 #
-# Date: 2023-12-13 06:00 UTC
+# Date: 2023-12-13 06:30 UTC
 # Fetch the latest version of this file: https://raw.githubusercontent.com/isaidboourn/TikTokTimesUp/main/AllTikTokDomains 
 # Project home page: https://github.com/isaidboourns/TikTokTimesUp
 # ===============================================================
